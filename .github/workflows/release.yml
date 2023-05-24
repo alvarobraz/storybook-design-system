@@ -30,7 +30,7 @@ jobs:
         with:
           publish: npm run release
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           NPM_TOKEN: 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
           TURBO_TOKEN: GLEDHAIA1JAegTADff3erPOg
           TURBO_TEAM: alvarobraz
