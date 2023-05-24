@@ -44,7 +44,6 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 - [React.js](https://pt-br.legacy.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
 - [Turborepo](https://www.npmjs.com/package/turbo)
 - [Storybook](https://storybook.js.org/)
 - [Radix](https://www.radix-ui.com/)
