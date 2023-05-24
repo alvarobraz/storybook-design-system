@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@ignite-ui/react",
+    "name": "@devmaisageis/react",
     "version": "1.0.1",
     "description": "",
     "main": "./dist/index.js",
@@ -33,9 +33,9 @@ npm manifest:
     "author": "",
     "license": "MIT",
     "devDependencies": {
-      "@ignite-ui/eslint-config": "*",
-      "@ignite-ui/tokens": "*",
-      "@ignite-ui/ts-config": "*",
+      "@devmaisageis/eslint-config": "*",
+      "@devmaisageis/tokens": "*",
+      "@devmaisageis/ts-config": "*",
       "@types/react": "^18.0.21",
       "@types/react-dom": "^18.0.6",
       "react": "^18.2.0",

@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@ignite-ui/ts-config",
+    "name": "@devmaisageis/ts-config",
     "version": "1.0.0",
     "license": "MIT",
     "private": true
